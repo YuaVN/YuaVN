@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuavn" alt="yuavn" /></a> </p>
 
-- 🌱 Owner BreadMC A Lifesteal SMP Minecraft Server !**
+- 🌱 **Owner BreadMC A Lifesteal SMP Minecraft Server !**
 - My Website : https://www.yuavn.tech
 <p align="left">
 </p>
